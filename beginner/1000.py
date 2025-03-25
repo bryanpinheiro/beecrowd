@@ -1,3 +1,4 @@
+# Name: 1000 - Hello World!
 # Problem: https://judge.beecrowd.com/en/problems/view/1000
 
 # Solution
